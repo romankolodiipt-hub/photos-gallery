@@ -22,7 +22,7 @@ export const FileInput: React.FC<FileInputProps> = ({
         htmlFor="fileInput"
         className="cursor-pointer bg-blue-500 text-white rounded hover:bg-blue-600 max-w-[90vw] w-lg h-24 flex items-center justify-center mx-auto mt-4 text-xl"
       >
-        Select an image
+        Select an images
       </label>
       <input
         id="fileInput"
